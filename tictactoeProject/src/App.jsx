@@ -107,4 +107,4 @@ const currentPlayer=deriveActivePlayer(prevTurns);
   )
 }
 
-export default App
+export default App;
